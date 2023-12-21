@@ -1,6 +1,6 @@
 # Task 1 
 
 # Print "Hello World!"
-# Print “Git is awesome!”
+# Change to print “Git is awesome!”
 
-print("Git is awesome!")
+print("Git is awesome! ")
