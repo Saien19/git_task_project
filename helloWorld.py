@@ -1,6 +1,6 @@
-# Task 1 
+# Task 2
 
-# Print "Hello World!"
-# Change to print “Git is awesome!”
+# Print input from user
 
-print("Git is awesome! ")
+user = input("Please enter your input: ")
+print(user)
