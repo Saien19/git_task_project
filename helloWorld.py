@@ -1,6 +1,6 @@
 # Task 2
 
-# Print input from user
+# Prompt the user for an input and print that input.
 
 user = input("Please enter your input: ")
 print(user)
