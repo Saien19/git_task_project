@@ -1,6 +1,6 @@
-# Task 2
+# Task 3
 
-# Prompt the user for an input and print that input.
+# Prompt the user for an integer input and print that integer.
 
-user = input("Please enter your input: ")
-print(user)
+user_integer = int(input("Please enter an integer: "))
+print(user_integer)
